@@ -1,7 +1,7 @@
 ## Installation
 
-Run $ npm install 
-run node application.js 
+#### Run $ npm install 
+#### Run $ node application.js 
 
 ## Credit
 
